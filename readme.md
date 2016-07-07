@@ -42,12 +42,12 @@ Your CSS:
 
 #### Challenge Deliverables
 
-When you have completed all the layout challenges and saved a pen for each, make a [gist](https://gist.github.com/) with links to all your CodePen solutions (also called 'pens'). In your gist include the challenge number, and a brief explanation of the approach/thinking you used to solve each layout challenge. The structure of your gist content should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), a simple text formatting language that you can use when you write a gist. Here's an example of what that looks like:
+When you have completed all the layout challenges and saved a pen for each, make a [gist](https://gist.github.com/) with links to all your CodePen solutions (also called 'pens'). In your gist include the challenge number, and a brief explanation of the approach/thinking you used to solve each layout challenge. The structure of your gist content should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), a simple text formatting syntax that you can use when you write a gist. Here's an example of what the structure of your gist should look like:
 
 ```
 ##### Challenge Number // this is an h5 title in Markdown
 Description of approach // this is a paragraph is Markdown
-[Challenge number]('link to code pen here') // this is how you write a link in Markdown. The syntax is: [link text](actual link)
+[Challenge number]('link to code pen here') // this is a link in Markdown.
 ```
 
 
