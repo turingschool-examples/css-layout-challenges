@@ -5,22 +5,21 @@ tags: css, layout, positioning
 ---
 
 
-* What is this lesson about?
-* What will students know or be able to do by the end of the class? What are the goals?
-
 #### CSS Layout Challenge
 
-As a front end developer, you will often be handed comps from a designer that you then have to build. You'll need to be able to take a graphic file and recreate it with code. This also means that you'll have to be able to think through how you're going to get all the elements in that comp where they need to be, and that requires a solid understanding of how to position HTML elements with CSS.
+As a front end developer, you will often be handed comps from a designer that you then have to build. You will need to be able to take a graphic file and recreate it with code. This means that you'll have to be able to think through how you're going to get all the elements in that comp where they need to be, and that requires a solid understanding of how to position HTML elements with CSS.
 
 In this exercise, we'll take a series of simple comps and recreate each in [CodePen](www.codepen.io). You will make the appropriate number of `<div>` tags with the div numbers indicated in the comps, give them a `<height>` and a `<width>`, and then make them match the layout in the comp.
 
-When you have completed all the layout challenges and saved a pen for each, make a [gist](https://gist.github.com/) with links to all your CodePen solutions (also called 'pens'). In your gist include the challenge number, and a brief explanation of the approach/thinking you used to solve each layout challenge. The structure of your gist content should be:
+When you have completed all the layout challenges and saved a pen for each, make a [gist](https://gist.github.com/) with links to all your CodePen solutions (also called 'pens'). In your gist include the challenge number, and a brief explanation of the approach/thinking you used to solve each layout challenge. The structure of your gist content should be (written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), a simple text formatting language that you can use when you write a gist):
 
 ```
 ###### Challenge Number
 Description of approach
 [link to solution on CodePen]('')
 ```
+
+*Tip: Remember, we've talked about several ways to position elements on the page. These include but are not necessarily limited to `display: block` and `display: inline-block`, `position: relative` and `position: absolute`, `margin`, `padding`, and the infamous `float`.*
 
 ##### Challenge 1:
 
@@ -95,10 +94,3 @@ Description of approach
 ##### Challenge 15:
 
 ![challenge 15](images/css15.png)
-
-
-#### The Closing: ~5 min
-
-* Check for understanding
-* Discuss any clarifications or student misconceptions
-* Review goals, further resources, and next steps
