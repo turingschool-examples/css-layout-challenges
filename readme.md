@@ -42,7 +42,7 @@ Your CSS:
 }
 ```
 
-#### Challenge Deliverables
+### Challenge Deliverables
 
 When you have completed all the layout challenges and saved a pen for each, make a [gist](https://gist.github.com/) with links to all your CodePen solutions (also called 'pens'). In your gist include the challenge number, and a brief explanation of the approach/thinking you used to solve each layout challenge. The structure of your gist content should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), a simple text formatting syntax that you can use when you write a gist. Here's an example of what the structure of your gist should look like:
 
@@ -53,6 +53,7 @@ Description of approach // this is a paragraph is Markdown
 ```
 
 Example:
+
 ```
 ##### Challenge 5
 I used these elements and specified these styles to make this thing happen. I chose to use white text color because you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
@@ -61,11 +62,13 @@ I used these elements and specified these styles to make this thing happen. I ch
 
 Which will come out looking like this in your gist:
 
+---
 ##### Challenge 5
 I used these elements and specified these styles to make this thing happen. I chose to use white text color because you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
 [Challenge 5](http://www.google.com)
+---
 
-##### Submitting Your CSS Challenges
+### Submitting Your CSS Challenges
 
 Here is an [example gist](https://gist.github.com/LouisaBarrett/8a9ba7b330beae3cd7d447bb37e41fd3) you can use as a template for your own gist. **When you have completed your own gist with descriptions and links to your pens, put the link to your gist in the comments of this example gist.**
 
