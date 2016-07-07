@@ -31,12 +31,14 @@ Your CSS:
   background-color: black;
   height: 100px;
   width: 100px;
+  color: white;
 }
 
 .div2 {
   background-color: gray;
   height: 100px;
   width: 100px;
+  color: white;
 }
 ```
 
@@ -46,9 +48,20 @@ When you have completed all the layout challenges and saved a pen for each, make
 
 ```
 ##### Challenge Number // this is an h5 title in Markdown
-Description of approach // this is a paragraph is Markdown
+Description of approach // this is a paragraph in Markdown
 [Challenge number]('link to code pen here') // this is a link in Markdown.
 ```
+Example:
+```
+##### Challenge 5
+I used these elements and specified these styles to make this thing happen. I chose to use white text color becuase you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
+[Challenge 5](http://www.google.com)
+```
+
+Which will come out looking like this in your gist:
+##### Challenge 5
+I used these elements and specified these styles to make this thing happen. I chose to use white text color becuase you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
+[Challenge 5](http://www.google.com)
 
 
 **Tips:**
