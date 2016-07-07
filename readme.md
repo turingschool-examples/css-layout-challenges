@@ -48,21 +48,26 @@ When you have completed all the layout challenges and saved a pen for each, make
 
 ```
 ##### Challenge Number // this is an h5 title in Markdown
-Description of approach // this is a paragraph in Markdown
-[Challenge number]('link to code pen here') // this is a link in Markdown.
+Description of approach // this is a paragraph is Markdown
+[Challenge number](link to code pen here) // this is a link in Markdown.
 ```
+
 Example:
 ```
 ##### Challenge 5
-I used these elements and specified these styles to make this thing happen. I chose to use white text color becuase you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
+I used these elements and specified these styles to make this thing happen. I chose to use white text color because you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
 [Challenge 5](http://www.google.com)
 ```
 
 Which will come out looking like this in your gist:
+
 ##### Challenge 5
-I used these elements and specified these styles to make this thing happen. I chose to use white text color becuase you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
+I used these elements and specified these styles to make this thing happen. I chose to use white text color because you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
 [Challenge 5](http://www.google.com)
 
+##### Submitting Your CSS Challenges
+
+Here is an [example gist](https://gist.github.com/LouisaBarrett/8a9ba7b330beae3cd7d447bb37e41fd3) you can use as a template for your own gist. **When you have completed your own gist with descriptions and links to your pens, put the link to your gist in the comments of this example gist.**
 
 **Tips:**
 * Remember, we've talked about several ways to position elements on the page. These include but are not necessarily limited to `display: block` and `display: inline-block`, `position: relative` and `position: absolute`, `margin`, `padding`, and the infamous `float`.
