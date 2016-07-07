@@ -62,11 +62,10 @@ I used these elements and specified these styles to make this thing happen. I ch
 
 Which will come out looking like this in your gist:
 
----
 ##### Challenge 5
 I used these elements and specified these styles to make this thing happen. I chose to use white text color because you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
 [Challenge 5](http://www.google.com)
----
+
 
 ### Submitting Your CSS Challenges
 
