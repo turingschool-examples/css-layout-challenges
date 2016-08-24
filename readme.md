@@ -73,7 +73,7 @@ I used these elements and specified these styles to make this thing happen. I ch
 
 ### Submitting Your CSS Challenges
 
-Here is an [example gist](https://gist.github.com/LouisaBarrett/8a9ba7b330beae3cd7d447bb37e41fd3) you can use as a template for your own gist. **When you have completed your own gist with descriptions and links to your pens, put the link to your gist in the comments of this example gist.**
+Here is an [example gist](https://gist.github.com/LouisaBarrett/23249928a2668cb00062acd0dd54d6ab) you can use as a template for your own gist. **When you have completed your own gist with descriptions and links to your pens, put the link to your gist in the comments of this example gist.**
 
 **Tips:**
 * Remember, we've talked about several ways to position elements on the page. These include but are not necessarily limited to `display: block` and `display: inline-block`, `position: relative` and `position: absolute`, `margin`, `padding`, and the infamous `float`.
