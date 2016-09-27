@@ -11,7 +11,7 @@ As a front end developer, you will often be handed comps from a designer that yo
 
 #### Getting Started
 
-In this exercise, we'll take a series of simple comps and recreate each in [CodePen](www.codepen.io). You will make the appropriate number of `<div>` tags with the div numbers indicated in the comps, give them a `<height>`, `<width>`, and `background-color` and then make them match the layout in the comp. Here's an example of what this might look like in your HTML and CSS, without any positioning applied:
+In this exercise, we'll take a series of simple comps and recreate each in [CodePen](http://www.codepen.io). You will make the appropriate number of `<div>` tags with the div numbers indicated in the comps, give them a `<height>`, `<width>`, and `background-color` and then make them match the layout in the comp. Here's an example of what this might look like in your HTML and CSS, without any positioning applied:
 
 Your HTML:
 
