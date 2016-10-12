@@ -79,8 +79,8 @@ I used these elements and specified these styles to make this thing happen. I ch
 
 #### Tips:
 * Remember, we've talked about several ways to position elements on the page. These include but are not necessarily limited to `display: block` and `display: inline-block`, `position: relative` and `position: absolute`, `margin`, `padding`, and the infamous `float`.
-* Aim to create simple solutions that are liquid/fluid layouts
 * If the layout dictates, some of the divs may be nested within other divs. Use your best judgement!
+* Refactor, refactor, refactor!
 
 
 ### The Comps
