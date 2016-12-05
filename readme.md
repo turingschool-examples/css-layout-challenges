@@ -73,9 +73,9 @@ I used these elements and specified these styles to make this thing happen. I ch
 
 ### Submitting Your CSS Challenges
 
-[Here is a gist](https://gist.github.com/LouisaBarrett/84b680098e01520a6529b2ce78db3fff) to use as a template for your own gist.
+[Here is a gist](https://gist.github.com/breethomas/69fa88a5a7aefc7f4c5158c3898bf579) to use as a template for your own gist.
 
-#### When you have completed your own gist with descriptions and links to your pens, put the link to your gist in the comments of this gist.
+#### When you have completed your own gist with descriptions and links to your pens, put the link to your gist in the comments of the above template gist.
 
 #### Tips:
 * Remember, we've talked about several ways to position elements on the page. These include but are not necessarily limited to `display: block` and `display: inline-block`, `position: relative` and `position: absolute`, `margin`, `padding`, and the infamous `float`.
