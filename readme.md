@@ -73,7 +73,7 @@ I used these elements and specified these styles to make this thing happen. I ch
 
 ### Submitting Your CSS Challenges
 
-[Here is a gist](https://gist.github.com/thatPamIAm/2e3abd59bd1a64565094b4c54c6a2ef2) to use as a template for your own gist.
+[Here is a gist](https://gist.github.com/damwhit/1fad77bd15025243be93e19c400d3892) to use as a template for your own gist.
 
 #### When you have completed your own gist with descriptions and links to your pens, put the link to your gist in the comments of the above template gist.
 
