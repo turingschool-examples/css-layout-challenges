@@ -42,41 +42,6 @@ div {
 }
 ```
 
-### Challenge Deliverables
-
-When you have completed all the layout challenges and saved a pen for each, make a [gist](https://gist.github.com/) with links to all your CodePen solutions (also called 'pens'). In your gist include the challenge number, and a brief explanation of the approach/thinking you used to solve each layout challenge. The structure of your gist content should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), a simple text formatting syntax that you can use when you write a gist. Here's an example of what the structure of your gist should look like:
-
-```
-##### Challenge Number // this is an h5 title in Markdown
-Description of approach // this is a paragraph is Markdown
-[Challenge number](link to code pen here) // this is a link in Markdown.
-```
-
-Example:
-
-```
-##### Challenge 5
-
-I used these elements and specified these styles to make this thing happen. I chose to use white text color because you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
-
-[Challenge 5](http://www.google.com)
-```
-
-Which will come out looking like this in your gist:
-
-##### Challenge 5
-
-I used these elements and specified these styles to make this thing happen. I chose to use white text color because you can't see it if it's black. (duh). (When you write this make your actual description more meaningful...)
-
-[Challenge 5](http://www.google.com)
-
-
-### Submitting Your CSS Challenges
-
-[Here is a gist](https://gist.github.com/damwhit/1fad77bd15025243be93e19c400d3892) to use as a template for your own gist.
-
-#### When you have completed your own gist with descriptions and links to your pens, put the link to your gist in the comments of the above template gist.
-
 #### Tips:
 * Remember, we've talked about several ways to position elements on the page. These include but are not necessarily limited to `display: block` and `display: inline-block`, `position: relative` and `position: absolute`, `margin`, `padding`, and the infamous `float`.
 * If the layout dictates, some of the divs may be nested within other divs. Use your best judgement!
